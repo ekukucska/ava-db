@@ -1,71 +1,49 @@
-[{
-  "_id": {
-    "$oid": "66fab4f26e0b54743f0bdc87"
+[
+  {
+    "_id": {
+      "$oid": "66fab4f26e0b54743f0bdc87"
+    },
+    "name": "ST-001",
+    "startDate": "2024-01-10T00:00:00Z",
+    "endDate": "2024-06-30T00:00:00Z",
+    "status": "validated"
   },
-  "name": "SD-001",
-  "startDate": "2024-01-10T00:00:00Z",
-  "endDate": "2024-06-30T00:00:00Z",
-  "participants": [
-    "SB-001",
-    "SB-002",
-    "SB-003"
-  ],
-  "status": "validated"
-},
-{
-  "_id": {
-    "$oid": "66fab4f26e0b54743f0bdc88"
+  {
+    "_id": {
+      "$oid": "66fab4f26e0b54743f0bdc88"
+    },
+    "name": "ST-002",
+    "startDate": "2024-03-15T00:00:00Z",
+    "endDate": "2024-09-10T00:00:00Z",
+    "participants": ["SB-004", "SB-005", "SB-006", "SB-007"],
+    "status": "not validated"
   },
-  "name": "SD-002",
-  "startDate": "2024-03-15T00:00:00Z",
-  "endDate": "2024-09-10T00:00:00Z",
-  "participants": [
-    "SB-004",
-    "SB-005",
-    "SB-006",
-    "SB-007"
-  ],
-  "status": "not validated"
-},
-{
-  "_id": {
-    "$oid": "66fab4f26e0b54743f0bdc89"
+  {
+    "_id": {
+      "$oid": "66fab4f26e0b54743f0bdc89"
+    },
+    "name": "ST-003",
+    "startDate": "2024-02-20T00:00:00Z",
+    "endDate": "2024-08-01T00:00:00Z",
+    "status": "validated"
   },
-  "name": "SD-003",
-  "startDate": "2024-02-20T00:00:00Z",
-  "endDate": "2024-08-01T00:00:00Z",
-  "participants": [
-    "SB-008",
-    "SB-009",
-    "SB-010"
-  ],
-  "status": "validated"
-},
-{
-  "_id": {
-    "$oid": "66fab4f26e0b54743f0bdc8a"
+  {
+    "_id": {
+      "$oid": "66fab4f26e0b54743f0bdc8a"
+    },
+    "name": "ST-004",
+    "startDate": "2024-05-01T00:00:00Z",
+    "endDate": "2024-12-31T00:00:00Z",
+    "participants": ["SB-011", "SB-012", "SB-013", "SB-014"],
+    "status": "not validated"
   },
-  "name": "SD-004",
-  "startDate": "2024-05-01T00:00:00Z",
-  "endDate": "2024-12-31T00:00:00Z",
-  "participants": [
-    "SB-011",
-    "SB-012",
-    "SB-013",
-    "SB-014"
-  ],
-  "status": "not validated"
-},
-{
-  "_id": {
-    "$oid": "66fab4f26e0b54743f0bdc8b"
-  },
-  "name": "SD-005",
-  "startDate": "2024-07-10T00:00:00Z",
-  "endDate": "2025-01-15T00:00:00Z",
-  "participants": [
-    "SB-015",
-    "SB-016"
-  ],
-  "status": "validated"
-}]
+  {
+    "_id": {
+      "$oid": "66fab4f26e0b54743f0bdc8b"
+    },
+    "name": "ST-005",
+    "startDate": "2024-07-10T00:00:00Z",
+    "endDate": "2025-01-15T00:00:00Z",
+    "status": "validated"
+  }
+]
