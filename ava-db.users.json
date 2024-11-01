@@ -1,36 +1,47 @@
-[{
-  "_id": {
-    "$oid": "66f9c05737dc0e5c41128d07"
+[
+  {
+    "_id": {
+      "$oid": "66f9c05737dc0e5c41128d05"
+    },
+    "firstName": "Eduard",
+    "lastName": "Kukucska",
+    "email": "andreikukucska@gmail.com",
+    "password": "eduard123"
   },
-  "firstName": "John",
-  "lastName": "Doe",
-  "email": "john.doe@example.com",
-  "password": "password123"
-},
-{
-  "_id": {
-    "$oid": "66f9c05737dc0e5c41128d08"
+  {
+    "_id": {
+      "$oid": "66f9c05737dc0e5c41128d07"
+    },
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "password": "password123"
   },
-  "firstName": "Jane",
-  "lastName": "Smith",
-  "email": "jane.smith@example.com",
-  "password": "securepass456"
-},
-{
-  "_id": {
-    "$oid": "66f9c05737dc0e5c41128d09"
+  {
+    "_id": {
+      "$oid": "66f9c05737dc0e5c41128d08"
+    },
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "password": "securepass456"
   },
-  "firstName": "Alice",
-  "lastName": "Johnson",
-  "email": "alice.johnson@example.com",
-  "password": "alice789"
-},
-{
-  "_id": {
-    "$oid": "66f9c05737dc0e5c41128d0a"
+  {
+    "_id": {
+      "$oid": "66f9c05737dc0e5c41128d09"
+    },
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "password": "alice789"
   },
-  "firstName": "Bob",
-  "lastName": "Brown",
-  "email": "bob.brown@example.com",
-  "password": "bobpassword"
-}]
+  {
+    "_id": {
+      "$oid": "66f9c05737dc0e5c41128d0a"
+    },
+    "firstName": "Bob",
+    "lastName": "Brown",
+    "email": "bob.brown@example.com",
+    "password": "bobpassword"
+  }
+]
