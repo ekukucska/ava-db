@@ -5,5 +5,3 @@ This project folder is used to store and keep track of JSON files containing dum
 ## License
 
 This project is licensed under the MIT License.
-
-## Local DB Files Location
