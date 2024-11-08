@@ -15,7 +15,6 @@
     "name": "ST-002",
     "startDate": "2024-03-15T00:00:00Z",
     "endDate": "2024-09-10T00:00:00Z",
-    "participants": ["SB-004", "SB-005", "SB-006", "SB-007"],
     "status": "not validated"
   },
   {
@@ -34,7 +33,6 @@
     "name": "ST-004",
     "startDate": "2024-05-01T00:00:00Z",
     "endDate": "2024-12-31T00:00:00Z",
-    "participants": ["SB-011", "SB-012", "SB-013", "SB-014"],
     "status": "not validated"
   },
   {
