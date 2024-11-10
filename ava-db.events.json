@@ -49,16 +49,8 @@
       },
       {
         "eventType": "Alcohol",
-        "startDateTime": [
-          "2024-01-01T18:00:00Z",
-          "2024-01-02T18:00:00Z",
-          "2024-01-03T18:00:00Z"
-        ],
-        "endDateTime": [
-          "2024-01-01T19:00:00Z",
-          "2024-01-02T19:00:00Z",
-          "2024-01-03T19:00:00Z"
-        ]
+        "startDateTime": [],
+        "endDateTime": []
       },
       {
         "eventType": "Exercise",
