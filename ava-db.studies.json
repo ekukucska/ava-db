@@ -25,23 +25,5 @@
     "startDate": "2024-02-20T00:00:00Z",
     "endDate": "2024-08-01T00:00:00Z",
     "status": "validated"
-  },
-  {
-    "_id": {
-      "$oid": "66fab4f26e0b54743f0bdc8a"
-    },
-    "name": "ST-004",
-    "startDate": "2024-05-01T00:00:00Z",
-    "endDate": "2024-12-31T00:00:00Z",
-    "status": "not validated"
-  },
-  {
-    "_id": {
-      "$oid": "66fab4f26e0b54743f0bdc8b"
-    },
-    "name": "ST-005",
-    "startDate": "2024-07-10T00:00:00Z",
-    "endDate": "2024-01-15T00:00:00Z",
-    "status": "validated"
   }
 ]
