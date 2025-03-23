@@ -17,7 +17,7 @@
     "_id": {
       "$oid": "672504d4e9cd4b88afcac6d1"
     },
-    "study": "SD-001",
+    "study": "SD-002",
     "subject": "SB-201",
     "type": "cgm",
     "dateTime": [
@@ -31,7 +31,7 @@
     "_id": {
       "$oid": "672504d4e9cd4b88afcac6d2"
     },
-    "study": "SD-002",
+    "study": "SD-003",
     "subject": "SB-301",
     "type": "cgm",
     "dateTime": [
