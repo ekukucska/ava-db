@@ -5,7 +5,7 @@
     },
     "name": "ST-001",
     "startDate": "2024-01-10T00:00:00Z",
-    "endDate": "2024-06-30T00:00:00Z",
+    "endDate": "2024-01-17T00:00:00Z",
     "status": "validated"
   },
   {
@@ -14,7 +14,7 @@
     },
     "name": "ST-002",
     "startDate": "2024-03-15T00:00:00Z",
-    "endDate": "2024-09-10T00:00:00Z",
+    "endDate": "2024-03-22T00:00:00Z",
     "status": "not validated"
   },
   {
@@ -23,7 +23,7 @@
     },
     "name": "ST-003",
     "startDate": "2024-02-20T00:00:00Z",
-    "endDate": "2024-08-01T00:00:00Z",
+    "endDate": "2024-02-27T00:00:00Z",
     "status": "validated"
   }
 ]
