@@ -4,7 +4,7 @@
       "$oid": "672511126d51152cdf90edc9"
     },
     "study": "ST-001",
-    "subject": "SB-001",
+    "subject": "SB-101",
     "types": [
       {
         "eventType": "Insulin",
@@ -137,7 +137,7 @@
       "$oid": "672511126d51152cdf90edca"
     },
     "study": "ST-002",
-    "subject": "SB-002",
+    "subject": "SB-201",
     "types": [
       {
         "eventType": "Insulin",
@@ -276,7 +276,7 @@
       "$oid": "672511126d51152cdf90edcb"
     },
     "study": "ST-003",
-    "subject": "SB-003",
+    "subject": "SB-301",
     "types": [
       {
         "eventType": "Insulin",
