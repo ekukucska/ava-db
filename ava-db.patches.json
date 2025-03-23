@@ -4,7 +4,7 @@
       "$oid": "672504d4e9cd4b88afcac6d0"
     },
     "study": "SD-001",
-    "subject": "SB-001",
+    "subject": "SB-101",
     "type": "cgm",
     "dateTime": [
       "2024-01-01T08:00:00Z",
@@ -18,7 +18,7 @@
       "$oid": "672504d4e9cd4b88afcac6d1"
     },
     "study": "SD-001",
-    "subject": "SB-002",
+    "subject": "SB-201",
     "type": "cgm",
     "dateTime": [
       "2024-01-02T08:00:00Z",
@@ -32,7 +32,7 @@
       "$oid": "672504d4e9cd4b88afcac6d2"
     },
     "study": "SD-002",
-    "subject": "SB-003",
+    "subject": "SB-301",
     "type": "cgm",
     "dateTime": [
       "2024-02-01T08:00:00Z",

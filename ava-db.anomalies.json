@@ -4,7 +4,7 @@
       "$oid": "67252d2cdf00eafbe1cb165d"
     },
     "study": "ST-001",
-    "subject": "SB-001",
+    "subject": "SB-101",
     "types": [
       {
         "anomalyType": "Noise",
@@ -28,7 +28,7 @@
       "$oid": "67252d2cdf00eafbe1cb165e"
     },
     "study": "ST-002",
-    "subject": "SB-002",
+    "subject": "SB-201",
     "types": [
       {
         "anomalyType": "Perm. drift",
@@ -57,7 +57,7 @@
       "$oid": "67252d2cdf00eafbe1cb165f"
     },
     "study": "ST-003",
-    "subject": "SB-003",
+    "subject": "SB-301",
     "types": [
       {
         "anomalyType": "Low sensitivity",

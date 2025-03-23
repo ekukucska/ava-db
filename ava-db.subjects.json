@@ -4,7 +4,7 @@
       "$oid": "6714251022ad0062ee5ab0ce"
     },
     "study": "ST-001",
-    "subject": "SB-001",
+    "subject": "SB-101",
     "subjectData": {
       "gender": "male",
       "age": 34,
@@ -18,7 +18,7 @@
       "$oid": "6714251022ad0062ee5ab0cf"
     },
     "study": "ST-002",
-    "subject": "SB-002",
+    "subject": "SB-201",
     "subjectData": {
       "gender": "female",
       "age": 28,
@@ -32,7 +32,7 @@
       "$oid": "6714251022ad0062ee5ab0d0"
     },
     "study": "ST-003",
-    "subject": "SB-003",
+    "subject": "SB-301",
     "subjectData": {
       "gender": "male",
       "age": 40,
