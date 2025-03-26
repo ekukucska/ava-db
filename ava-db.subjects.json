@@ -54,5 +54,47 @@
       "height": 165,
       "BMI": 25.0
     }
+  },
+  {
+    "_id": {
+      "$oid": "3714251022ad0062ee5ab0d0"
+    },
+    "study": "ST-001",
+    "subject": "SB-103",
+    "subjectData": {
+      "gender": "male",
+      "age": 61,
+      "weight": 92,
+      "height": 172,
+      "BMI": 31.1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6714251022ad0062ee5ab0d1"
+    },
+    "study": "ST-001",
+    "subject": "SB-104",
+    "subjectData": {
+      "gender": "female",
+      "age": 45,
+      "weight": 76,
+      "height": 158,
+      "BMI": 30.4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6714251022ad0062ee5ab0d2"
+    },
+    "study": "ST-001",
+    "subject": "SB-105",
+    "subjectData": {
+      "gender": "male",
+      "age": 38,
+      "weight": 85,
+      "height": 182,
+      "BMI": 25.7
+    }
   }
 ]
