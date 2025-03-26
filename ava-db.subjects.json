@@ -96,5 +96,75 @@
       "height": 182,
       "BMI": 25.7
     }
+  },
+  {
+    "_id": {
+      "$oid": "1714251022ad0062ee5ab0ce"
+    },
+    "study": "ST-001",
+    "subject": "SB-106",
+    "subjectData": {
+      "gender": "male",
+      "age": 35,
+      "weight": 85,
+      "height": 182,
+      "BMI": 25.7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1714251022ad0062ee5ab0cf"
+    },
+    "study": "ST-001",
+    "subject": "SB-107",
+    "subjectData": {
+      "gender": "female",
+      "age": 53,
+      "weight": 70,
+      "height": 161,
+      "BMI": 27.0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1714251022ad0062ee5ab0d0"
+    },
+    "study": "ST-001",
+    "subject": "SB-108",
+    "subjectData": {
+      "gender": "male",
+      "age": 62,
+      "weight": 95,
+      "height": 173,
+      "BMI": 31.8
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1714251022ad0062ee5ab0d1"
+    },
+    "study": "ST-001",
+    "subject": "SB-109",
+    "subjectData": {
+      "gender": "female",
+      "age": 46,
+      "weight": 76,
+      "height": 158,
+      "BMI": 30.5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1714251022ad0062ee5ab0d2"
+    },
+    "study": "ST-001",
+    "subject": "SB-110",
+    "subjectData": {
+      "gender": "male",
+      "age": 39,
+      "weight": 87,
+      "height": 183,
+      "BMI": 26
+    }
   }
 ]
