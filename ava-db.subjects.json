@@ -267,20 +267,6 @@
   },
   {
     "_id": {
-      "$oid": "2014251022ad0062ee5ab0d2"
-    },
-    "study": "ST-002",
-    "subject": "SB-210",
-    "subjectData": {
-      "gender": "male",
-      "age": 39,
-      "weight": 87,
-      "height": 183,
-      "BMI": 26
-    }
-  },
-  {
-    "_id": {
       "$oid": "3114251022ad0062ee5ab0ce"
     },
     "study": "ST-003",
@@ -375,34 +361,6 @@
       "weight": 70,
       "height": 161,
       "BMI": 27.0
-    }
-  },
-  {
-    "_id": {
-      "$oid": "3814251022ad0062ee5ab0d0"
-    },
-    "study": "ST-003",
-    "subject": "SB-308",
-    "subjectData": {
-      "gender": "male",
-      "age": 62,
-      "weight": 95,
-      "height": 173,
-      "BMI": 31.8
-    }
-  },
-  {
-    "_id": {
-      "$oid": "3914251022ad0062ee5ab0d1"
-    },
-    "study": "ST-003",
-    "subject": "SB-309",
-    "subjectData": {
-      "gender": "female",
-      "age": 46,
-      "weight": 76,
-      "height": 158,
-      "BMI": 30.5
     }
   },
   {
