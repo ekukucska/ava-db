@@ -6,8 +6,8 @@
     "types": [
       {
         "anomalyType": "Noise",
-        "startDateTime": "2024-05-14T08:23:17Z",
-        "endDateTime": "2024-05-14T08:28:17Z"
+        "startDateTime": "2024-01-12T14:30:00Z",
+        "endDateTime": "2024-01-12T14:37:00Z"
       }
     ]
   },
@@ -18,8 +18,8 @@
     "types": [
       {
         "anomalyType": "Drawn detached",
-        "startDateTime": "2024-07-03T14:45:02Z",
-        "endDateTime": "2024-07-03T14:52:02Z"
+        "startDateTime": "2024-01-15T09:15:22Z",
+        "endDateTime": "2024-01-15T09:20:22Z"
       }
     ]
   },
@@ -30,8 +30,8 @@
     "types": [
       {
         "anomalyType": "Perm. drift",
-        "startDateTime": "2024-02-11T09:31:45Z",
-        "endDateTime": "2024-02-11T09:39:45Z"
+        "startDateTime": "2024-03-18T16:45:10Z",
+        "endDateTime": "2024-03-18T16:53:10Z"
       }
     ]
   },
@@ -42,8 +42,8 @@
     "types": [
       {
         "anomalyType": "Init. suppression",
-        "startDateTime": "2024-11-08T16:12:30Z",
-        "endDateTime": "2024-11-08T16:15:30Z"
+        "startDateTime": "2024-03-16T11:08:33Z",
+        "endDateTime": "2024-03-16T11:11:33Z"
       }
     ]
   },
@@ -54,44 +54,44 @@
     "types": [
       {
         "anomalyType": "Error",
-        "startDateTime": "2024-04-22T03:57:11Z",
-        "endDateTime": "2024-04-22T04:02:11Z"
+        "startDateTime": "2024-03-20T08:22:45Z",
+        "endDateTime": "2024-03-20T08:27:45Z"
       }
     ]
   },
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1662" },
     "study": "ST-003",
-    "subject": "SB-301",
+    "subject": "SB-201",
     "types": [
       {
         "anomalyType": "Low sensitivity",
-        "startDateTime": "2024-09-19T12:08:56Z",
-        "endDateTime": "2024-09-19T12:11:56Z"
+        "startDateTime": "2024-02-22T13:10:18Z",
+        "endDateTime": "2024-02-22T13:13:18Z"
       }
     ]
   },
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1663" },
     "study": "ST-003",
-    "subject": "SB-307",
+    "subject": "SB-207",
     "types": [
       {
         "anomalyType": "Drawn attached",
-        "startDateTime": "2024-06-30T19:40:22Z",
-        "endDateTime": "2024-06-30T19:45:22Z"
+        "startDateTime": "2024-02-25T19:30:05Z",
+        "endDateTime": "2024-02-25T19:35:05Z"
       }
     ]
   },
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1664" },
     "study": "ST-003",
-    "subject": "SB-308",
+    "subject": "SB-208",
     "types": [
       {
         "anomalyType": "Dropout",
-        "startDateTime": "2024-10-15T07:33:08Z",
-        "endDateTime": "2024-10-15T07:38:08Z"
+        "startDateTime": "2024-02-21T07:55:40Z",
+        "endDateTime": "2024-02-21T08:00:40Z"
       }
     ]
   }
