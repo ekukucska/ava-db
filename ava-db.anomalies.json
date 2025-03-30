@@ -62,7 +62,7 @@
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1662" },
     "study": "ST-003",
-    "subject": "SB-201",
+    "subject": "SB-301",
     "types": [
       {
         "anomalyType": "Low sensitivity",
@@ -74,7 +74,7 @@
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1663" },
     "study": "ST-003",
-    "subject": "SB-207",
+    "subject": "SB-307",
     "types": [
       {
         "anomalyType": "Drawn attached",
@@ -86,7 +86,7 @@
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1664" },
     "study": "ST-003",
-    "subject": "SB-208",
+    "subject": "SB-308",
     "types": [
       {
         "anomalyType": "Dropout",
