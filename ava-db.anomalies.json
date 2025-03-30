@@ -24,45 +24,9 @@
     ]
   },
   {
-    "_id": { "$oid": "67252d2cdf00eafbe1cb165f" },
-    "study": "ST-002",
-    "subject": "SB-202",
-    "types": [
-      {
-        "anomalyType": "Perm. drift",
-        "startDateTime": "2024-03-18T16:45:10Z",
-        "endDateTime": "2024-03-18T16:53:10Z"
-      }
-    ]
-  },
-  {
-    "_id": { "$oid": "67252d2cdf00eafbe1cb1660" },
-    "study": "ST-002",
-    "subject": "SB-205",
-    "types": [
-      {
-        "anomalyType": "Init. suppression",
-        "startDateTime": "2024-03-16T11:08:33Z",
-        "endDateTime": "2024-03-16T11:11:33Z"
-      }
-    ]
-  },
-  {
-    "_id": { "$oid": "67252d2cdf00eafbe1cb1661" },
-    "study": "ST-002",
-    "subject": "SB-208",
-    "types": [
-      {
-        "anomalyType": "Error",
-        "startDateTime": "2024-03-20T08:22:45Z",
-        "endDateTime": "2024-03-20T08:27:45Z"
-      }
-    ]
-  },
-  {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1662" },
-    "study": "ST-003",
-    "subject": "SB-301",
+    "study": "ST-002",
+    "subject": "SB-201",
     "types": [
       {
         "anomalyType": "Low sensitivity",
@@ -73,8 +37,8 @@
   },
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1663" },
-    "study": "ST-003",
-    "subject": "SB-307",
+    "study": "ST-002",
+    "subject": "SB-207",
     "types": [
       {
         "anomalyType": "Drawn attached",
@@ -85,13 +49,49 @@
   },
   {
     "_id": { "$oid": "67252d2cdf00eafbe1cb1664" },
-    "study": "ST-003",
-    "subject": "SB-308",
+    "study": "ST-002",
+    "subject": "SB-208",
     "types": [
       {
         "anomalyType": "Dropout",
         "startDateTime": "2024-02-21T07:55:40Z",
         "endDateTime": "2024-02-21T08:00:40Z"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "67252d2cdf00eafbe1cb165f" },
+    "study": "ST-003",
+    "subject": "SB-302",
+    "types": [
+      {
+        "anomalyType": "Perm. drift",
+        "startDateTime": "2024-03-18T16:45:10Z",
+        "endDateTime": "2024-03-18T16:53:10Z"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "67252d2cdf00eafbe1cb1660" },
+    "study": "ST-003",
+    "subject": "SB-305",
+    "types": [
+      {
+        "anomalyType": "Init. suppression",
+        "startDateTime": "2024-03-16T11:08:33Z",
+        "endDateTime": "2024-03-16T11:11:33Z"
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "67252d2cdf00eafbe1cb1661" },
+    "study": "ST-003",
+    "subject": "SB-308",
+    "types": [
+      {
+        "anomalyType": "Error",
+        "startDateTime": "2024-03-20T08:22:45Z",
+        "endDateTime": "2024-03-20T08:27:45Z"
       }
     ]
   }
