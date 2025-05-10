@@ -30,8 +30,8 @@
     "types": [
       {
         "anomalyType": "Low sensitivity",
-        "startDateTime": "2024-02-22T13:10:18Z",
-        "endDateTime": "2024-02-22T13:13:18Z"
+        "startDateTime": "2024-02-12T13:10:18Z",
+        "endDateTime": "2024-02-12T13:13:18Z"
       }
     ]
   },
@@ -42,8 +42,8 @@
     "types": [
       {
         "anomalyType": "Drawn attached",
-        "startDateTime": "2024-02-25T19:30:05Z",
-        "endDateTime": "2024-02-25T19:35:05Z"
+        "startDateTime": "2024-02-14T19:30:05Z",
+        "endDateTime": "2024-02-14T19:35:05Z"
       }
     ]
   },
@@ -54,8 +54,8 @@
     "types": [
       {
         "anomalyType": "Dropout",
-        "startDateTime": "2024-02-21T07:55:40Z",
-        "endDateTime": "2024-02-21T08:00:40Z"
+        "startDateTime": "2024-02-15T07:55:40Z",
+        "endDateTime": "2024-02-15T08:00:40Z"
       }
     ]
   },
@@ -66,8 +66,8 @@
     "types": [
       {
         "anomalyType": "Perm. drift",
-        "startDateTime": "2024-03-18T16:45:10Z",
-        "endDateTime": "2024-03-18T16:53:10Z"
+        "startDateTime": "2024-03-13T16:45:10Z",
+        "endDateTime": "2024-03-13T16:53:10Z"
       }
     ]
   },
@@ -78,8 +78,8 @@
     "types": [
       {
         "anomalyType": "Init. suppression",
-        "startDateTime": "2024-03-16T11:08:33Z",
-        "endDateTime": "2024-03-16T11:11:33Z"
+        "startDateTime": "2024-03-14T11:08:33Z",
+        "endDateTime": "2024-03-14T11:11:33Z"
       }
     ]
   },
@@ -90,8 +90,8 @@
     "types": [
       {
         "anomalyType": "Error",
-        "startDateTime": "2024-03-20T08:22:45Z",
-        "endDateTime": "2024-03-20T08:27:45Z"
+        "startDateTime": "2024-03-16T08:22:45Z",
+        "endDateTime": "2024-03-16T08:27:45Z"
       }
     ]
   }
